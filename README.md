@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Destiny Israel
 
-<!--
-**destinyisrael-sec/destinyisrael-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CompTIA Security+ certified cybersecurity professional with hands-on experience in:
 
-Here are some ideas to get you started:
+- Wireshark
+- Nmap
+- Kali Linux
+- Windows Event Viewer
+- Sysmon
+- VirtualBox
+- Network Traffic Analysis
+- Security Monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cybersecurity Projects
+
+- Network Traffic Analysis Lab
+- Windows Event Monitoring & Sysmon Lab
+- Linux Security & Log Analysis Lab (In Progress)
+
+Connect With Me
+
+LinkedIn: www.linkedin.com/in/destiny-obinna-israel
+
+GitHub: https://github.com/destinyisrael-sec
