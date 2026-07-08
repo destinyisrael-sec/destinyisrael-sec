@@ -1,24 +1,71 @@
-Hi, I'm Destiny Israel
+# Hi, I'm Destiny Obinna Israel 👋
 
-CompTIA Security+ certified cybersecurity professional with hands-on experience in:
+## Cybersecurity Analyst | SOC Analyst | CompTIA Security+
 
-- Wireshark
-- Nmap
-- Kali Linux
-- Windows Event Viewer
-- Sysmon
-- VirtualBox
-- Network Traffic Analysis
-- Security Monitoring
+I'm a cybersecurity professional passionate about Security Operations, Threat Detection, SIEM, Blue Teaming, and Incident Response.
 
-Cybersecurity Projects
+I enjoy building hands-on home labs to strengthen my practical cybersecurity skills and continuously improve my understanding of security monitoring and investigation.
 
-- Network Traffic Analysis Lab
-- Windows Event Monitoring & Sysmon Lab
-- Linux Security & Log Analysis Lab (In Progress)
+---
 
-Connect With Me
+## Certifications
 
-LinkedIn: www.linkedin.com/in/destiny-obinna-israel
+* ✅ CompTIA Security+ (SY0-701)
 
-GitHub: https://github.com/destinyisrael-sec
+---
+
+## Technical Skills
+
+* Wazuh SIEM
+* Windows Event Viewer
+* Sysmon
+* Wireshark
+* Nmap
+* Ubuntu Linux
+* Kali Linux
+* Windows 11
+* VirtualBox
+* Network Security
+* Incident Response
+* Threat Detection
+* Log Analysis
+* Git & GitHub
+
+---
+
+## Featured Projects
+
+### Wazuh SIEM Home Lab
+
+Built a complete SIEM environment using Ubuntu and Windows 11.
+
+🔗 https://github.com/destinyisrael-sec/Wazuh-SIEM-Home-Lab
+
+---
+
+### SOC Lab Projects
+
+Hands-on cybersecurity projects covering Windows Event Monitoring, Sysmon, Wireshark, and Network Traffic Analysis.
+
+🔗 https://github.com/destinyisrael-sec/Soc-Lab-projects-
+
+---
+
+## Currently Learning
+
+* Microsoft Sentinel
+* Splunk
+* Active Directory Security
+* Incident Response
+* Threat Hunting
+
+---
+
+## Let's Connect
+
+LinkedIn:
+https://www.linkedin.com/in/destiny-obinna-israel
+
+Email:
+[israeldestiny49@gmail.com](mailto:israeldestiny49@gmail.com)
+
