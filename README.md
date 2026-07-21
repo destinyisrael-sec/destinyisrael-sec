@@ -34,10 +34,9 @@ I enjoy building hands-on home labs to strengthen my practical cybersecurity ski
 ---
 
 ## Featured Projects
-
-### Wazuh SIEM Home Lab
-
-Built a complete SIEM environment using Ubuntu and Windows 11.
+🔹 Wazuh SIEM Home Lab
+🔹 SOC Detection Lab
+🔹 Sysmon + Wazuh Detection Lab (Coming Soon)
 
 🔗 https://github.com/destinyisrael-sec/Wazuh-SIEM-Home-Lab
 
